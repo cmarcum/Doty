@@ -1,3 +1,4 @@
+![GitHub Logo](https://github.com/cmarcum/Doty/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true)
 # Doty
 A simple android application that displays the integer day of the year.
 
